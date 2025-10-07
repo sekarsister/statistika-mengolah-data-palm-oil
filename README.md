@@ -1,1 +1,2 @@
-# statistika-mengolah-data-palm-oil
+# statistika_mempelajari_data_danmengolahnya
+tugas cik
